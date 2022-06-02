@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/teclaton-reactjs/static/css/main.f6d39089.css",
-    "main.js": "/teclaton-reactjs/static/js/main.b54bc40e.js",
+    "main.css": "/teclaton-reactjs/static/css/main.c3f044d0.css",
+    "main.js": "/teclaton-reactjs/static/js/main.fc281694.js",
     "static/js/787.f9fb45ac.chunk.js": "/teclaton-reactjs/static/js/787.f9fb45ac.chunk.js",
+    "static/media/logo.svg": "/teclaton-reactjs/static/media/logo.6b136a53f740681a38951a1940b1c0cf.svg",
     "index.html": "/teclaton-reactjs/index.html",
-    "main.f6d39089.css.map": "/teclaton-reactjs/static/css/main.f6d39089.css.map",
-    "main.b54bc40e.js.map": "/teclaton-reactjs/static/js/main.b54bc40e.js.map",
+    "main.c3f044d0.css.map": "/teclaton-reactjs/static/css/main.c3f044d0.css.map",
+    "main.fc281694.js.map": "/teclaton-reactjs/static/js/main.fc281694.js.map",
     "787.f9fb45ac.chunk.js.map": "/teclaton-reactjs/static/js/787.f9fb45ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6d39089.css",
-    "static/js/main.b54bc40e.js"
+    "static/css/main.c3f044d0.css",
+    "static/js/main.fc281694.js"
   ]
 }
