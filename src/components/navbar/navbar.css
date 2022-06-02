@@ -1,0 +1,19 @@
+.bg-primary {
+    background-color: #fd611a !important;
+}
+
+.navBarText {
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.dropdown-menu.show{
+    background-color: #fd611a;
+    border-width: 2px;
+}
+
+.navBarPosition {
+    justify-content:center;
+}

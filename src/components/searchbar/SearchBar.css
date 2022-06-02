@@ -1,0 +1,36 @@
+.nav-logo {
+    height: 80px;
+    width: auto;
+
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.searchBarText {
+    align-items: center;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #fd611a;
+}
+
+.btn-primary:hover {
+    opacity: 70%;
+    background-color: #fd611a;
+}
+
+.fa-glass-icon {
+    position:absolute;
+    height: 1.3rem;
+    opacity: 50%;
+    left: 25rem;
+    top: 0.6rem;
+}
+
+.d-flex {
+    position: relative !important;
+}

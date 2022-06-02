@@ -1,9 +1,14 @@
 //import logo from './logo.svg';
-import {BarraDeNavegacion} from './components/navbar/navbar'
+import {BarraDeBusqueda} from './components/searchbar/SearchBar'
+import { BarraDeNavegacion } from './components/navbar/navbar'
 import './App.css';
 
 function App() {
-  return <BarraDeNavegacion/>;
-}
+  return (
+  <>
+  <BarraDeBusqueda />
+  <BarraDeNavegacion/>
+  </>
+)}
 
 export default App;
