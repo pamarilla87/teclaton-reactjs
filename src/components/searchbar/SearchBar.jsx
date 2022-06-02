@@ -24,8 +24,8 @@ export const BarraDeBusqueda = () => {
                     </Form>
                 </Col>
                 <Col xs={12} md={4} className="p-1">
-                    <Button>
-                        Iniciar Sesion
+                    <Button variant="primary">
+                        Iniciar Sesión
                     </Button>
                 </Col>
             </Row>

@@ -15,7 +15,10 @@
 }
 
 .btn-primary {
-    background-color: #fd611a;
+    background-color: #fd611a !important;
+    border-color: #ffff !important;
+    color: #0000008c !important; 
+    font-weight: bold !important;
 }
 
 .btn-primary:hover {
