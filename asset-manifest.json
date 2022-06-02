@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teclaton-reactjs/static/css/main.f6d39089.css",
+    "main.js": "/teclaton-reactjs/static/js/main.b54bc40e.js",
+    "static/js/787.f9fb45ac.chunk.js": "/teclaton-reactjs/static/js/787.f9fb45ac.chunk.js",
+    "index.html": "/teclaton-reactjs/index.html",
+    "main.f6d39089.css.map": "/teclaton-reactjs/static/css/main.f6d39089.css.map",
+    "main.b54bc40e.js.map": "/teclaton-reactjs/static/js/main.b54bc40e.js.map",
+    "787.f9fb45ac.chunk.js.map": "/teclaton-reactjs/static/js/787.f9fb45ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d39089.css",
+    "static/js/main.b54bc40e.js"
+  ]
+}
