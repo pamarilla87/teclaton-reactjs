@@ -1,6 +1,6 @@
 //import logo from './logo.svg';
-import {BarraDeBusqueda} from './components/searchbar/SearchBar'
-import { BarraDeNavegacion } from './components/navbar/navbar'
+import {BarraDeBusqueda} from './components/SearchBar/SearchBar'
+import { BarraDeNavegacion } from './components/Navbar/Navbar'
 import './App.css';
 
 function App() {

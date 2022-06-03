@@ -1,6 +1,6 @@
 import React from 'react'
 import logo from './logo.svg';
-import {IconoDeCarrito} from '../CartIcon/CartIcon';
+import {IconoDeCarrito} from '../CartWidget/CartWidget';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './SearchBar.css';
 
