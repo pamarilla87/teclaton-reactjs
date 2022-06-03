@@ -4,7 +4,7 @@ import { faCartShopping } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 export const IconoDeCarrito = (props) => {
-    const { productos } = props;
+    const { productos="0" } = props;
     return (
         <>
             <FontAwesomeIcon className="cartIcon fa-2x" icon={faCartShopping} />
