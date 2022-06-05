@@ -1,6 +1,6 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import './navbar.css'
+import './NavBar.css'
 import { BarraDeBusqueda } from '../SearchBar/SearchBar'
 import { Navbar, Container, Nav, NavDropdown } from 'react-bootstrap'
 
