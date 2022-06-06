@@ -20,7 +20,7 @@ export const BarraDeBusqueda = () => {
                     <Form className="d-flex">
                         <FormControl
                             type="search"
-                            placeholder="Search"
+                            placeholder="Buscar un producto"
                             className="me-2"
                             aria-label="Search"
                         />

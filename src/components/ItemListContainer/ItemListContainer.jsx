@@ -1,6 +1,13 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import './ItemListContainer.css'
+import { CardItem } from '../CardItem/CardItem'
+
 
 export const ItemListContainer = () => {
-    return <h1>Estamos actualizando la lista de productos. Intente nuevamente mas tarde.</h1>
+    return (
+        <div className="itemsContainer">
+            <CardItem />
+        </div>
+    )
 }

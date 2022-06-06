@@ -1,0 +1,20 @@
+.numberOfItems {
+    font-size: 1rem;
+    padding-top: .5rem;
+    padding: .5rem 1rem;
+}
+
+.cart-input {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0.5rem;
+}
+
+.decreaseButton, .increaseButton {
+    background-color: #ffff !important;
+    border-color: #ffff !important;
+    color: #fd611a !important;
+    font-weight: bold !important;
+    box-shadow: none;
+    font-size: 1rem;
+}

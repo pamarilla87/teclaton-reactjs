@@ -1,0 +1,5 @@
+.cardContainer {
+    display: flex;
+    width: 18rem;
+    text-align: center;
+}
