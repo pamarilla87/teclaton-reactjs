@@ -2,7 +2,7 @@ import React from 'react'
 import logo from '../ItemListContainer/logo.svg';
 import './CardItem.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import { ItemCount } from '../ItemCounter/ItemCount'
+import { ItemCount } from '../ItemCount/ItemCount'
 import { Card, Col } from 'react-bootstrap'
 import Products from '../PricingSheet/PricingSheet.json'
 
