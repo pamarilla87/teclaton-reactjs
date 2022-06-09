@@ -8,7 +8,7 @@ import './SearchBar.css';
 import { Row, Col, Container, Form, FormControl, Button } from 'react-bootstrap'
 
 
-export const BarraDeBusqueda = () => {
+export const SearchBar = () => {
     return (
         <Container fluid className="searchBarPosition">
             <Row className="searchBarText">

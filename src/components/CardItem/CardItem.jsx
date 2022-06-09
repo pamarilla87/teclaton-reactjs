@@ -2,7 +2,7 @@ import React from 'react'
 import logo from '../ItemListContainer/logo.svg';
 import './CardItem.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import { ItemCounter } from '../ItemCounter/ItemCounter'
+import { ItemCount } from '../ItemCounter/ItemCount'
 import { Card, Col } from 'react-bootstrap'
 import Products from '../PricingSheet/PricingSheet.json'
 
@@ -18,7 +18,7 @@ export const CardItem = () => {
                             <Card.Body>
                                 <Card.Title>{product.description}</Card.Title>
                                 <Card.Text>$ {product.price}</Card.Text>
-                                <ItemCounter stock={product.stock} />
+                                <ItemCount stock={product.stock} />
                             </Card.Body>
                         </Card>
                     }

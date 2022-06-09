@@ -1,14 +1,14 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './NavBar.css'
-import { BarraDeBusqueda } from '../SearchBar/SearchBar'
+import { SearchBar } from '../SearchBar/SearchBar'
 import { Navbar, Container, Nav, NavDropdown } from 'react-bootstrap'
 
 
-export const BarraDeNavegacion = () => {
+export const NavBar = () => {
     return (
         <>
-            <BarraDeBusqueda />
+            <SearchBar />
             <Navbar collapseOnSelect expand="lg" variant="light" bg="primary">
                 <Container>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" className="bg--primary" />

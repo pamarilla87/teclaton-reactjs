@@ -1,10 +1,10 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import './ItemCounter.css'
+import './ItemCount.css'
 import { Button, Form, } from 'react-bootstrap'
 import { useState, useEffect } from 'react'
 
-export const ItemCounter = (props) => {
+export const ItemCount = (props) => {
     const {stock} = props;
     const [count, setCount] = useState(0);
 
