@@ -1,6 +1,6 @@
 [
-    {"id": "1", "description" : "Placa de Video MSI GeForce RTX 3090 24GB GDDR6X VENTUS 3X OC", "price":"446.340", "stock":"10", "img":"../PublishedImg/id-1-general-1.jpg"},
-    {"id": "2", "description" : "Placa de Video GALAX GeForce RTX 3080 Ti 12GB GDDR6X SG OC", "price":"264.000", "stock":"20", "img":"../PublishedImg/id-2-general-1.jpg"},
-    {"id": "3", "description" : "Placa de Video GALAX GeForce GTX 1660 Ti 6GB GDDR6 OC", "price":"67.000", "stock":"10", "img":"../PublishedImg/id-3-general-1.jpg"},
-    {"id": "4", "description" : "Placa de Video Zotac GeForce RTX 3090 24GB GDDR6X Trinity", "price":"380.000", "stock":"20", "img":"../PublishedImg/id-4-general-1.jpg"}
+    {"id": "1", "description" : "Placa de Video MSI GeForce RTX 3090 24GB GDDR6X VENTUS 3X OC", "price":"446.340", "stock":"10", "img":"https://d3vj05pclgk6ib.cloudfront.net/products/id-1-general-1.jpg"},
+    {"id": "2", "description" : "Placa de Video GALAX GeForce RTX 3080 Ti 12GB GDDR6X SG OC", "price":"264.000", "stock":"20", "img":"https://d3vj05pclgk6ib.cloudfront.net/products/id-2-general-1.jpg"},
+    {"id": "3", "description" : "Placa de Video GALAX GeForce GTX 1660 Ti 6GB GDDR6 OC", "price":"67.000", "stock":"10", "img":"https://d3vj05pclgk6ib.cloudfront.net/products/id-3-general-1.jpg"},
+    {"id": "4", "description" : "Placa de Video Zotac GeForce RTX 3090 24GB GDDR6X Trinity", "price":"380.000", "stock":"20", "img":"https://d3vj05pclgk6ib.cloudfront.net/products/id-4-general-1.jpg"}
 ]
