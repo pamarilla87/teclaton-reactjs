@@ -1,5 +1,4 @@
 import React from 'react'
-import logo from './logo.svg';
 import './CardItem.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import { ItemCount } from '../ItemCount/ItemCount'
